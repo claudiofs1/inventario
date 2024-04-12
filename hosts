@@ -54,3 +54,6 @@ webserver[1:2]
 
 [db]
 dbserver
+
+[servers]
+server[1:2]
